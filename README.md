@@ -2,7 +2,18 @@
 
 ###
 
-<small>The most used languages are kinda skewed due to my NixOS configuration, which was mostly made by <a href="https://github.com/Zohiu">Zohiu</a>.</small>
+I am an artist, worldbuilder, and an enthusiast for NixOS and Obsidian. 
+
+Additionally, I am somewhat literate on programming (regarding theory), despite not yet being able to write proper programs. I am getting there. 
+
+<i>The most used languages are kinda skewed due to my NixOS configuration, which was mostly made by <a href="https://github.com/Zohiu">Zohiu</a>.</i>
+
+###
+
+<img align="right" height="150" alt="Title caption: Extreme Yuri Power. Depicted: Two cards, one depicting May and the other Bridget from Guilty Gear -Strive-, having their points counted in Balatro (modded)." src="https://media1.tenor.com/m/H1h1ZByZF1YAAAAC/yuri-balatro.gif"  />
+<img align="right" height="150" alt="Title caption: I have hired this Manul to hack your PC. Depicted: A Manul (cat) swiping its paws at the viewer, somewhat looking like it is typing." src="https://media1.tenor.com/m/XGDAOhmwoSMAAAAd/i-have-hired-this.gif" />
+
+###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shaydelity&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -11,12 +22,14 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/zkKEQMxssNYAAAAC/faith-the-unholy-trinity-father-garcia.gif"  />
-<img align="right" height="150" src="https://media1.tenor.com/m/H1h1ZByZF1YAAAAC/yuri-balatro.gif"  />
+<img align="right" height="150" alt="Father Garcia holding his crux at the viewer (from Faith The Unholy Trinity)" src="https://media1.tenor.com/m/zkKEQMxssNYAAAAC/faith-the-unholy-trinity-father-garcia.gif"  />
+<img align="right" height="150" alt="Lord X (Sonic.exe) dancing while dressed in a white blazer and top hat." src="https://media1.tenor.com/m/nZd3en7rE-cAAAAC/lord-x-sonic-exe.gif"  />
 
 ###
 
-Quite experienced with web design. Begginer to JS, TS, Python (& GDScript), and C#.
+Quite experienced with web design (love working with CSS for themes). 
+
+Begginer to JS, TS, Python (& GDScript), and C#.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -34,7 +47,7 @@ Quite experienced with web design. Begginer to JS, TS, Python (& GDScript), and 
 
 ###
 
-I can be found on all of these platforms, same username as here.
+For a proper overview, check [my website (shaydelity.com)](https://shaydelity.com)!
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
