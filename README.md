@@ -6,8 +6,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/H1h1ZByZF1YAAAAC/yuri-balatro.gif"  />
-<img align="right" height="150" src="https://media1.tenor.com/m/XGDAOhmwoSMAAAAd/i-have-hired-this.gif" />
+<img align="right" height="150" alt="Title caption: Extreme Yuri Power. Depicted: Two cards, one depicting May and the other Bridget from Guilty Gear -Strive-, having their points counted in Balatro (modded)." src="https://media1.tenor.com/m/H1h1ZByZF1YAAAAC/yuri-balatro.gif"  />
+<img align="right" height="150" alt="Title caption: I have hired this Manul to hack your PC. Depicted: A Manul (cat) swiping its paws at the viewer, somewhat looking like it is typing." src="https://media1.tenor.com/m/XGDAOhmwoSMAAAAd/i-have-hired-this.gif" />
 
 ###
 
@@ -18,8 +18,8 @@
 
 ###
 
-<img align="right" height="150" style="margin:2px;" alt="Father Garcia holding his crux at the viewer (from Faith The Unholy Trinity)" src="https://media1.tenor.com/m/zkKEQMxssNYAAAAC/faith-the-unholy-trinity-father-garcia.gif"  />
-<img align="right" height="150" style="margin:2px;" alt="Lord X (Sonic.exe) dancing while dressed in a white blazer and top hat." src="https://media1.tenor.com/m/nZd3en7rE-cAAAAC/lord-x-sonic-exe.gif"  />
+<img align="right" height="150" alt="Father Garcia holding his crux at the viewer (from Faith The Unholy Trinity)" src="https://media1.tenor.com/m/zkKEQMxssNYAAAAC/faith-the-unholy-trinity-father-garcia.gif"  />
+<img align="right" height="150" alt="Lord X (Sonic.exe) dancing while dressed in a white blazer and top hat." src="https://media1.tenor.com/m/nZd3en7rE-cAAAAC/lord-x-sonic-exe.gif"  />
 
 ###
 
