@@ -18,8 +18,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/zkKEQMxssNYAAAAC/faith-the-unholy-trinity-father-garcia.gif"  />
-<img align="right" height="150" src="https://media1.tenor.com/m/nZd3en7rE-cAAAAC/lord-x-sonic-exe.gif"  />
+<img align="right" height="150" style="margin:2px" src="https://media1.tenor.com/m/zkKEQMxssNYAAAAC/faith-the-unholy-trinity-father-garcia.gif"  />
+<img align="right" height="150" style="margin:2px" src="https://media1.tenor.com/m/nZd3en7rE-cAAAAC/lord-x-sonic-exe.gif"  />
 
 ###
 
