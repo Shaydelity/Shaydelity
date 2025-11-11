@@ -11,7 +11,6 @@ Additionally, I am somewhat literate on programming (regarding theory), despite 
 ###
 
 <img align="right" height="150" alt="Title caption: Extreme Yuri Power. Depicted: Two cards, one depicting May and the other Bridget from Guilty Gear -Strive-, having their points counted in Balatro (modded)." src="https://media1.tenor.com/m/H1h1ZByZF1YAAAAC/yuri-balatro.gif"  />
-<img align="right" height="150" alt="Title caption: I have hired this Manul to hack your PC. Depicted: A Manul (cat) swiping its paws at the viewer, somewhat looking like it is typing." src="https://media1.tenor.com/m/XGDAOhmwoSMAAAAd/i-have-hired-this.gif" />
 
 ###
 
