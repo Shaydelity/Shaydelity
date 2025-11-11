@@ -21,6 +21,14 @@
 <img align="right" height="150" style="margin:2px" src="https://media1.tenor.com/m/zkKEQMxssNYAAAAC/faith-the-unholy-trinity-father-garcia.gif"  />
 <img align="right" height="150" style="margin:2px" src="https://media1.tenor.com/m/nZd3en7rE-cAAAAC/lord-x-sonic-exe.gif"  />
 
+<img src="https://media1.tenor.com/m/zkKEQMxssNYAAAAC/faith-the-unholy-trinity-father-garcia.gif"
+     alt="Faith The Unholy Trinity Father Garcia"
+     style="float: right; margin: 2px; height: 150px;">
+
+<img src="https://media1.tenor.com/m/nZd3en7rE-cAAAAC/lord-x-sonic-exe.gif"
+     alt="Lord X Sonic Exe"
+     style="float: right; margin: 2px; height: 150px;">
+
 ###
 
 Quite experienced with web design. Begginer to JS, TS, Python (& GDScript), and C#.
