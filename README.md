@@ -21,7 +21,7 @@ Additionally, I am somewhat literate on programming (regarding theory), despite 
 
 ###
 
-<img align="right" height="150" alt="Draedon in his hover chair, taping his fingers, ovserving and thinking (from Terraria: Calamity)" src="https://media1.tenor.com/m/mzF98rv23DwAAAAd/wtdg-w-t-d-g.gif"  />
+<img align="right" height="150" alt="Father Garcia (from Faith: The Unholy Trinity) holding a crucifix at the viewer and approaching." src="https://media1.tenor.com/m/zkKEQMxssNYAAAAC/faith-the-unholy-trinity-father-garcia.gif"  />
 <img align="right" height="150" alt="Lord X (Sonic.exe) dancing while dressed in a white blazer and top hat." src="https://media1.tenor.com/m/nZd3en7rE-cAAAAC/lord-x-sonic-exe.gif"  />
 
 ###
