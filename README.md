@@ -2,6 +2,10 @@
 
 ###
 
+I am an artist, worldbuilder, and an enthusiast for NixOS and Obsidian. 
+
+Additionally, I am somewhat literate on programming (regarding theory), despite not yet being able to write proper programs. I am getting there. 
+
 <small>The most used languages are kinda skewed due to my NixOS configuration, which was mostly made by <a href="https://github.com/Zohiu">Zohiu</a>.</small>
 
 ###
@@ -23,7 +27,7 @@
 
 ###
 
-Quite experienced with web design. Begginer to JS, TS, Python (& GDScript), and C#.
+Quite experienced with web design (love working with CSS for themes). Begginer to JS, TS, Python (& GDScript), and C#.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
