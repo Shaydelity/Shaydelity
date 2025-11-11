@@ -18,16 +18,8 @@
 
 ###
 
-<img align="right" height="150" style="margin:2px" src="https://media1.tenor.com/m/zkKEQMxssNYAAAAC/faith-the-unholy-trinity-father-garcia.gif"  />
-<img align="right" height="150" style="margin:2px" src="https://media1.tenor.com/m/nZd3en7rE-cAAAAC/lord-x-sonic-exe.gif"  />
-
-<img src="https://media1.tenor.com/m/zkKEQMxssNYAAAAC/faith-the-unholy-trinity-father-garcia.gif"
-     alt="Faith The Unholy Trinity Father Garcia"
-     style="float: right; margin: 2px; height: 150px;">
-
-<img src="https://media1.tenor.com/m/nZd3en7rE-cAAAAC/lord-x-sonic-exe.gif"
-     alt="Lord X Sonic Exe"
-     style="float: right; margin: 2px; height: 150px;">
+<img align="right" height="150" style="margin:2px;" alt="Father Garcia holding his crux at the viewer (from Faith The Unholy Trinity)" src="https://media1.tenor.com/m/zkKEQMxssNYAAAAC/faith-the-unholy-trinity-father-garcia.gif"  />
+<img align="right" height="150" style="margin:2px;" alt="Lord X (Sonic.exe) dancing while dressed in a white blazer and top hat." src="https://media1.tenor.com/m/nZd3en7rE-cAAAAC/lord-x-sonic-exe.gif"  />
 
 ###
 
