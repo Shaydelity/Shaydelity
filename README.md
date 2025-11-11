@@ -13,6 +13,7 @@
 
 <img align="right" height="150" src="https://media1.tenor.com/m/zkKEQMxssNYAAAAC/faith-the-unholy-trinity-father-garcia.gif"  />
 <img align="right" height="150" src="https://media1.tenor.com/m/H1h1ZByZF1YAAAAC/yuri-balatro.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/nZd3en7rE-cAAAAC/lord-x-sonic-exe.gif"  />
 
 ###
 
