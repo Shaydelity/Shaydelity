@@ -21,7 +21,7 @@ Additionally, I am somewhat literate on programming (regarding theory), despite 
 
 ###
 
-<img align="right" height="150" alt="'Milk Chan' (from a Bag of Milk Outside a Bag of Milk Outside a...) laying in bed, staring at the ceiling." src="https://media1.tenor.com/m/bVEB0eVealkAAAAC/milk-chan.gif"  />
+<img align="right" height="150" alt="Father Garcia (from Faith: The Unholy Trinity) holding a crucifix at the viewer and approaching." src="https://media1.tenor.com/m/zkKEQMxssNYAAAAC/faith-the-unholy-trinity-father-garcia.gif"  />
 <img align="right" height="150" alt="Lord X (Sonic.exe) dancing while dressed in a white blazer and top hat." src="https://media1.tenor.com/m/nZd3en7rE-cAAAAC/lord-x-sonic-exe.gif"  />
 
 ###
