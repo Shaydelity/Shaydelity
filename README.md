@@ -27,7 +27,9 @@ Additionally, I am somewhat literate on programming (regarding theory), despite 
 
 ###
 
-Quite experienced with web design (love working with CSS for themes). Begginer to JS, TS, Python (& GDScript), and C#.
+Quite experienced with web design (love working with CSS for themes). 
+
+Begginer to JS, TS, Python (& GDScript), and C#.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
